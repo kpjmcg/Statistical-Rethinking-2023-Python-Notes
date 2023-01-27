@@ -1,3 +1,4 @@
+.gitignore
 rethinking/
 .ipynb_checkpoints/
 Lecture 17_2_Misclassication_example.ipynb
